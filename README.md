@@ -12,7 +12,7 @@ The app presents users with multiple-choice general knowledge questions, keeps t
 
 ## 📸 Screenshot
 
-![Project Screenshot](./assets/Demo.png)
+![Project Screenshot](.\src\assets\Demo.png)
 
 ## ✨ Features
 
