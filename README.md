@@ -14,8 +14,6 @@ The app presents users with multiple-choice general knowledge questions, keeps t
 
 ![Project Screenshot](./assets/Demo.png)
 
-> Replace `./assets/quiz.png` with the actual path and filename of your screenshot.
-
 ## ✨ Features
 
 * 🧠 20 General Knowledge questions
