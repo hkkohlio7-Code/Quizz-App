@@ -6,13 +6,12 @@ The app presents users with multiple-choice general knowledge questions, keeps t
 
 ## 🚀 Live Demo
 
-👉 Add your deployed project link here:
+https://quizz-app-two-pi.vercel.app/
 
-**[Live Demo](#)**
 
 ## 📸 Screenshot
 
-![Project Screenshot](.\src\assets\Demo.png)
+![Project Screenshot](./assets/Demo.png)
 
 ## ✨ Features
 
